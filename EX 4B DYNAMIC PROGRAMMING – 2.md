@@ -3,7 +3,7 @@
 ## AIM:
 To find the longest string (or strings) that is a substring (or are substrings) of two strings..
 
-## Algorithm
+## Algorithm:
 1. Create a table lookup to store lengths of matching characters.
 2. Compare each character of X with each character of Y.
 3. If characters match, update the lookup value and track the maximum length and ending position.
