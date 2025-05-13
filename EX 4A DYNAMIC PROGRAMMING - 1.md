@@ -3,7 +3,7 @@
 ## AIM:
 To find longest common subsequence using Dynamic Programming.
 
-## Algorithm
+## Algorithm:
 1. Create a table c where each cell stores the LCS length for parts of u and v.
 2. Fill the table from the end of both strings towards the start.
 3. If characters match, add 1 to the LCS length; else take the maximum of two possible moves.
