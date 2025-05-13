@@ -13,8 +13,6 @@ To find the minimum number of operations to convert str1 to str2 using Naive rec
 
 ## Program:
 ```
-Program to implement to find the minimum number of operations to convert str1 to str2 using Naive recursive method
-
 Developed by: Kantha Sishanth S
 Register Number: 212222100020
 ```
